@@ -1,6 +1,4 @@
-from pathlib import Path
-
-readme = """<h1 align="center">Hi 👋, I'm Saw Jedidiah</h1>
+<h1 align="center">Hi 👋, I'm Saw Jedidiah</h1>
 
 <h3 align="center">Junior Frontend Developer | HTML • CSS • JavaScript</h3>
 
