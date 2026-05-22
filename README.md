@@ -1,80 +1,91 @@
-# Hi 👋, I'm Saw Jedidiah
+from pathlib import Path
 
-### 💻 Junior Frontend Developer from Thailand
+readme = """<h1 align="center">Hi 👋, I'm Saw Jedidiah</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=38BDF8&center=false&vCenter=true&width=600&lines=Junior+Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;Building+Responsive+Web+Applications;Open+to+Remote+Opportunities" />
+<h3 align="center">Junior Frontend Developer | HTML • CSS • JavaScript</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Junior+Frontend+Developer;Building+Responsive+Websites;HTML+%7C+CSS+%7C+JavaScript;Open+to+Remote+and+Freelance+Opportunities" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://saw-jedidiah.github.io/portfolio-website/">Portfolio</a> •
+  <a href="https://github.com/Saw-Jedidiah">GitHub</a> •
+  <a href="https://www.linkedin.com/in/saw-jedidiah-05091778p">LinkedIn</a> •
+  <a href="https://www.upwork.com/freelancers/~0191c8cb552c73baad">Upwork</a>
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🌱 Currently learning **JavaScript, React.js, Tailwind CSS**
-- 💻 Building responsive and modern web applications
-- 🧪 Interested in **QA Testing & Frontend Development**
-- 🌍 Open to **Remote, Freelance and Entry-Level Opportunities**
-- 🎯 Goal: Become a Professional Frontend Developer
+I am a motivated **Junior Frontend Developer** with a background in computing, community development, data collection, and quality assurance. I enjoy building responsive, clean, and user-friendly web applications.
+
+- 🌱 Currently learning **JavaScript, React.js, Tailwind CSS, and Laravel**
+- 💻 Building projects with **HTML, CSS, and JavaScript**
+- 🎯 Goal: Become a professional Frontend Developer
+- 🌍 Open to **Remote, Freelance, and Entry-Level Opportunities**
+- 📍 Based in Thailand
 
 ---
 
 ## 🛠 Tech Stack
 
-### Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
----
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
 ### 🌐 Portfolio Website
+Modern responsive portfolio website built with HTML, CSS, and JavaScript.
 
-Modern personal portfolio website built with HTML, CSS and responsive design.
-
-🔗 Live Demo
-
+🔗 **Live Demo:**  
 https://saw-jedidiah.github.io/portfolio-website/
+
+📂 **Repository:**  
+https://github.com/Saw-Jedidiah/portfolio-website
 
 ---
 
 ### 🧮 Calculator App
+Modern glassmorphism calculator application built with HTML, CSS, and JavaScript.
 
-Modern glassmorphism calculator application with responsive design and JavaScript functionality.
-
-🔗 Live Demo
-
+🔗 **Live Demo:**  
 https://saw-jedidiah.github.io/calculator-app/
+
+📂 **Repository:**  
+https://github.com/Saw-Jedidiah/calculator-app
 
 ---
 
-### ☁️ Weather App
-
-Weather application using OpenWeather API.
+### ✅ To-Do App
+Task management application with local storage support.
 
 🚧 Currently Building
 
 ---
 
-### ✅ To-Do App
-
-Task management application with Local Storage support.
+### ☁️ Weather App
+Weather application using API integration and responsive design.
 
 🚧 Currently Building
 
@@ -82,50 +93,49 @@ Task management application with Local Storage support.
 
 ## 📊 GitHub Stats
 
-![Saw's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saw-Jedidiah&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saw-Jedidiah&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saw-Jedidiah&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saw-Jedidiah&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
 ## 🎓 Education
 
 ### Bachelor of Arts (English)
-
 Yangon University of Distance Education
 
 ### NCC Education Level 4 Diploma in Computing
-
 Modules include:
-
+- Website Development
 - Software Development
 - Database Design
-- Website Development
 - Computer Networks
 - Office Solutions
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact Me
 
-🌐 Portfolio
-
-https://saw-jedidiah.github.io/portfolio-website/
-
-💼 LinkedIn
-
-https://www.linkedin.com/in/saw-jedidiah-05091778p
-
-🚀 Upwork
-
-https://www.upwork.com/freelancers/~0191c8cb552c73baad
-
-📧 Email
-
-jedidiahsaw@gmail.com
+- 🌐 Portfolio: https://saw-jedidiah.github.io/portfolio-website/
+- 💼 LinkedIn: https://www.linkedin.com/in/saw-jedidiah-05091778p
+- 🚀 Upwork: https://www.upwork.com/freelancers/~0191c8cb552c73baad
+- 📧 Email: jedidiahsaw@gmail.com
 
 ---
 
-![](https://komarev.com/ghpvc/?username=Saw-Jedidiah&color=blueviolet)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Saw-Jedidiah&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
 
-⭐ Thanks for visiting my profile!
+<p align="center">
+  ⭐ Thanks for visiting my GitHub profile!
+</p>
+"""
+
+path = Path("/mnt/data/README_profile_pro.md")
+path.write_text(readme, encoding="utf-8")
+str(path)
