@@ -133,7 +133,3 @@ Modules include:
   ⭐ Thanks for visiting my GitHub profile!
 </p>
 """
-
-path = Path("/mnt/data/README_profile_pro.md")
-path.write_text(readme, encoding="utf-8")
-str(path)
