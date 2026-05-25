@@ -92,12 +92,11 @@ Weather application using API integration and responsive design.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saw-Jedidiah&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saw-Jedidiah&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saw-Jedidiah&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saw-Jedidiah&layout=compact&theme=tokyonight" />
-</p>
+
 ---
 
 ## 🎓 Education
@@ -113,6 +112,60 @@ Modules include:
 - Computer Networks
 - Office Solutions
 
+  ## 🏆 Achievements
+
+✔ Built and deployed multiple responsive web projects using GitHub Pages
+
+✔ Created a modern personal portfolio website with dark UI and responsive design
+
+✔ Developed a calculator application using HTML, CSS, and JavaScript
+
+✔ Experienced in QA testing, bug reporting, data annotation, and content moderation
+
+✔ Strong communication and teamwork experience from NGO and community development projects
+
+---
+
+## 🎯 Current Learning Journey
+
+Currently improving my frontend development skills through hands-on projects and continuous learning.
+
+### Learning Roadmap
+
+- ✅ HTML5
+- ✅ CSS3
+- ✅ JavaScript Fundamentals
+- ✅ Git & GitHub
+- 🔄 Responsive Web Design
+- 🔄 React.js
+- 🔄 Tailwind CSS
+- 🔄 Laravel Basics
+- 🎯 Full Frontend Development
+
+---
+
+## 📈 Current Goals
+
+- Build 10+ frontend portfolio projects
+- Master React.js and Tailwind CSS
+- Contribute to open-source projects
+- Gain professional frontend development experience
+- Secure a Junior Frontend Developer position
+
+---
+
+## 🤝 Let's Connect
+
+I am always open to discussing:
+
+- Frontend Development Opportunities
+- Freelance Projects
+- Remote Work
+- Open Source Collaboration
+- Web Development Projects
+
+Feel free to connect with me.
+
 ---
 
 ## 📫 Contact Me
@@ -125,7 +178,7 @@ Modules include:
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saw-Jedidiah&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://streak-stats.demolab.com?user=Saw-Jedidiah&theme=tokyonight" />
 </p>
 
 <p align="center">
