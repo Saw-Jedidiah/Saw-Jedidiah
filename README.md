@@ -17,13 +17,15 @@
 
 ## 👨‍💻 About Me
 
-I am a motivated **Junior Frontend Developer** with a background in computing, community development, data collection, and quality assurance. I enjoy building responsive, clean, and user-friendly web applications.
+I am a motivated Junior Frontend Developer with a background in computing, community development, data collection, quality assurance, and content moderation.
 
-- 🌱 Currently learning **JavaScript, React.js, Tailwind CSS, and Laravel**
-- 💻 Building projects with **HTML, CSS, and JavaScript**
-- 🎯 Goal: Become a professional Frontend Developer
-- 🌍 Open to **Remote, Freelance, and Entry-Level Opportunities**
-- 📍 Based in Thailand
+I enjoy building responsive, clean, and user-friendly web applications using modern frontend technologies.
+
+- 💻 Building projects with HTML, CSS, and JavaScript
+- 🌱 Currently improving my JavaScript and React skills
+- 🎯 Working toward a professional Frontend Developer career
+- 🌍 Open to Remote, Freelance, and Entry-Level Opportunities
+- 🚀 Interested in building practical and user-friendly web applications
 
 ---
 
@@ -39,7 +41,6 @@ I am a motivated **Junior Frontend Developer** with a background in computing, c
 
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
@@ -53,8 +54,35 @@ I am a motivated **Junior Frontend Developer** with a background in computing, c
 
 ## 🚀 Featured Projects
 
+### 💼 JobTrack Myanmar
+
+A responsive job application tracking web app designed to help job seekers organize and manage their applications.
+
+**Features:**
+- 📊 Dashboard with application statistics
+- 🔎 Search and filter applications
+- 📝 Add, edit, and delete applications
+- 📋 Kanban board for application stages
+- 🌓 Light and dark mode
+- 👤 Profile management
+- 💾 LocalStorage data persistence
+- 📱 Responsive design
+
+**Built with:** HTML, CSS, JavaScript, Chart.js
+
+🔗 **Live Demo:**  
+https://saw-jedidiah.github.io/jobtrack-myanmar/
+
+📂 **Repository:**  
+https://github.com/Saw-Jedidiah/jobtrack-myanmar
+
+---
+
 ### 🌐 Portfolio Website
-Modern responsive portfolio website built with HTML, CSS, and JavaScript.
+
+A responsive personal portfolio website showcasing my skills, projects, and frontend development work.
+
+**Built with:** HTML, CSS, JavaScript
 
 🔗 **Live Demo:**  
 https://saw-jedidiah.github.io/portfolio-website/
@@ -65,27 +93,14 @@ https://github.com/Saw-Jedidiah/portfolio-website
 ---
 
 ### 🧮 Calculator App
-Modern glassmorphism calculator application built with HTML, CSS, and JavaScript.
+
+A responsive calculator application built with HTML, CSS, and JavaScript.
 
 🔗 **Live Demo:**  
 https://saw-jedidiah.github.io/calculator-app/
 
 📂 **Repository:**  
 https://github.com/Saw-Jedidiah/calculator-app
-
----
-
-### ✅ To-Do App
-Task management application with local storage support.
-
-🚧 Currently Building
-
----
-
-### ☁️ Weather App
-Weather application using API integration and responsive design.
-
-🚧 Currently Building
 
 ---
 
@@ -96,73 +111,75 @@ Weather application using API integration and responsive design.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saw-Jedidiah&layout=compact&theme=tokyonight" />
 </p>
 
-
 ---
 
 ## 🎓 Education
 
 ### Bachelor of Arts (English)
-Yangon University of Distance Education
+
+Hpa-An University
 
 ### NCC Education Level 4 Diploma in Computing
-Modules include:
+
+Key areas of study included:
+
 - Website Development
 - Software Development
 - Database Design
 - Computer Networks
 - Office Solutions
 
-  ## 🏆 Achievements
+---
 
-✔ Built and deployed multiple responsive web projects using GitHub Pages
+## 💼 Additional Experience
 
-✔ Created a modern personal portfolio website with dark UI and responsive design
+Alongside my frontend development work, I have professional experience in:
 
-✔ Developed a calculator application using HTML, CSS, and JavaScript
-
-✔ Experienced in QA testing, bug reporting, data annotation, and content moderation
-
-✔ Strong communication and teamwork experience from NGO and community development projects
+- Quality assurance and content review
+- Data collection and data entry
+- Content moderation
+- Community development
+- NGO program support
+- Survey and field data collection
+- Communication and teamwork
 
 ---
 
 ## 🎯 Current Learning Journey
 
-Currently improving my frontend development skills through hands-on projects and continuous learning.
-
-### Learning Roadmap
+I am continuing to improve my frontend development skills through hands-on projects and practical learning.
 
 - ✅ HTML5
 - ✅ CSS3
 - ✅ JavaScript Fundamentals
 - ✅ Git & GitHub
 - 🔄 Responsive Web Design
+- 🔄 JavaScript Projects
 - 🔄 React.js
 - 🔄 Tailwind CSS
-- 🔄 Laravel Basics
-- 🎯 Full Frontend Development
 
 ---
 
 ## 📈 Current Goals
 
-- Build 10+ frontend portfolio projects
-- Master React.js and Tailwind CSS
+- Build more practical frontend projects
+- Improve JavaScript and React skills
 - Contribute to open-source projects
 - Gain professional frontend development experience
 - Secure a Junior Frontend Developer position
+- Continue building real-world web applications
 
 ---
 
 ## 🤝 Let's Connect
 
-I am always open to discussing:
+I am open to:
 
 - Frontend Development Opportunities
 - Freelance Projects
 - Remote Work
-- Open Source Collaboration
 - Web Development Projects
+- Open Source Collaboration
 
 Feel free to connect with me.
 
@@ -184,4 +201,3 @@ Feel free to connect with me.
 <p align="center">
   ⭐ Thanks for visiting my GitHub profile!
 </p>
-
